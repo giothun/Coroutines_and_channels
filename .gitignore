@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Coroutines/task/build/
+/Coroutines/task/out/
+/Coroutines/task/out/production/classes/
